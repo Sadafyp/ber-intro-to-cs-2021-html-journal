@@ -1,0 +1,22 @@
+#header{
+
+    color: cadetblue;
+    font-family:cursive;
+}
+#footer {
+    color:rgb(179, 148, 13)
+
+}
+
+input {
+   font-weight: 900;
+   text-align: center;
+   align-items: ;
+}
+
+.link {
+    color: darksalmon;
+    font-weight: bolder;
+    font-size: x-large;
+
+}
